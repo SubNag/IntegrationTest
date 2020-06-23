@@ -1,0 +1,9 @@
+workspaces:
+    - name: nstest
+      clubhouse_token: "5ec22ca3-d542-496c-829b-5495ed8de924"
+      github_token: "<GH TOKEN>"
+      users:
+        - clubhouse_email_id: subramanya.n@surya-soft.com
+          github_id: SubNag
+        - clubhouse_email_id: chetan.m@surya-soft.com
+          github_id: chetanfaris
