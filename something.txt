@@ -1,0 +1,5 @@
+"""This module maps the users between Clubhouse and Github and stores this details in a file"""
+import requests
+import yaml
+
+CLUBHOUSE_BASEURL = "https://api.clubhouse.io/api/v3/"
